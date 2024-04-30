@@ -1,1 +1,9 @@
-This file is for practice purposes
+This file is for practice purposes for using GitHub
+
+This is the text-body of the file that is being cdreated that I just changed
+
+This is new line 1
+
+This is new line 2
+
+This is new line 3
